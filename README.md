@@ -7,7 +7,7 @@ Part of Web Application Kit (WAPPKit) Core which powers WAPPKit, a privately own
 
 ## Installation
 
-composer require antoniokadid/wappkit-core-audio
+composer require antoniokadid/wappkit-core-audio:dev-master
 
 ## Requirements
 * PHP 7.1
