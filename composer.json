@@ -13,7 +13,7 @@
     ],
     "require": {
         "php": ">=7.1",
-        "antoniokadid/wappkit-core-io": "dev-master"
+        "antoniokadid/wappkit-core-io": "dev-master@dev"
     },
     "require-dev": {
         "phpunit/phpunit": "^9"
