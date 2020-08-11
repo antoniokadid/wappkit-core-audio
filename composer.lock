@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "7ff86f44bd2513c58ea2a26f812dc752",
+    "content-hash": "cd4f61810a07de2b6268d8ed673bb48e",
     "packages": [
         {
             "name": "antoniokadid/wappkit-core-io",
@@ -12,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/antoniokadid/wappkit-core-io.git",
-                "reference": "babb67750291a7f54df138a262bb8d03cbaeef51"
+                "reference": "47367831d5580ffa21fa91a7e7d9684ddb4f9179"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/antoniokadid/wappkit-core-io/zipball/babb67750291a7f54df138a262bb8d03cbaeef51",
-                "reference": "babb67750291a7f54df138a262bb8d03cbaeef51",
+                "url": "https://api.github.com/repos/antoniokadid/wappkit-core-io/zipball/47367831d5580ffa21fa91a7e7d9684ddb4f9179",
+                "reference": "47367831d5580ffa21fa91a7e7d9684ddb4f9179",
                 "shasum": ""
             },
             "require": {
